@@ -1,6 +1,6 @@
 # Hey, I am Mariann:
 
-🔭 I’m currently working on a UI for my Password Generator app<br>
+🔭 I’m currently working on a UI for my Pomodoro Timer app<br>
 
 🌱 I’m currently learning Frontend skills<br>
 <br>
