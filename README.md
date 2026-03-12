@@ -1,7 +1,7 @@
 # Hey, I am Mariann! 👋
 
-🔭 **Currently working on:** Crafting a sleek, user-friendly UI for my [FocusFlow_Timer](https://github.com/mariannDiaz/FocusFlow_Timer) Chrome extension.<br>
-🌱 **Currently learning:** Advanced Frontend development with a focus on **React** , **Tailwind**, and **responsive design**.<br>
+🔭 **Currently working on:** Crafting a sleek, user-friendly UI for my [FocusFlow_Timer](https://github.com/mariannDiaz/FocusFlow_Timer) Chrome extension.<br><br>
+🌱 **Currently learning:** Advanced Frontend development with a focus on **React** , **Tailwind**, and **responsive design**.<br><br>
 ⚡ **Fun fact:** I'm passionate about building tools that bridge the "Stability Gap" for my community, like the [CORE-Engine](https://github.com/mariannDiaz/CORE-Engine) project.<br>
 
 <br>
