@@ -13,10 +13,10 @@
 
 ## 📊 GitHub Stats:
 ![Mariann's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariannDiaz&layout=compact&theme=radical)
+<br>
 ![Mariann's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariannDiaz&show_icons=true&theme=radical)
 
 ![](https://visitcount.itsvg.in/api?id=mariannDiaz&icon=0&color=0)
 
 ## 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianndiaz/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mgdiazpinero@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianndiaz/)
