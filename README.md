@@ -14,7 +14,5 @@
 
 ## 📊 GitHub Statistics:
 ![Mariann's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariannDiaz&layout=compact&theme=radical)
-<br>
-![Mariann's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariannDiaz&show_icons=true&theme=radical)
 
 ![](https://visitcount.itsvg.in/api?id=mariannDiaz&icon=0&color=0)
